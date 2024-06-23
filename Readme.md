@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Павел Покаместов](https://up.htmlacademy.ru/javascript/32/user/1227049).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
